@@ -1,7 +1,7 @@
 //Todd Labo
 //point..cpp
 //CSCI 2312
-//PA 1
+//Program Assignment #1
 
 #include <cmath>  //For square root function
 #include "point.h"

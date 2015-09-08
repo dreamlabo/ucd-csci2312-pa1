@@ -1,7 +1,7 @@
 //Todd Labo
 //Main.cpp
 //CSCI 2312
-//PA 1
+//Program Assignment #1
 
 #include <iostream>
 #include <iomanip>

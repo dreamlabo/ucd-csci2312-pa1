@@ -1,7 +1,7 @@
 //Todd Labo
 //point.h
 //CSCI 2312
-//PA 1
+//Program Assignment#1
 
 // A 3-dimensional point class!
 // Coordinates are double-precision floating point.
